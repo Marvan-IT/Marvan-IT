@@ -90,7 +90,3 @@
 </p>
 
 ---
-
-**Notes**
-- Replace the resume link with a public URL if you want an externally hosted resume displayed.  
-- If you want repo links or live Streamlit demo links added under each project, I can include them next.
