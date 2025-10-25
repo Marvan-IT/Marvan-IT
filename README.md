@@ -26,9 +26,6 @@
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/> &nbsp;
 
-  <!-- Power BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45"/> &nbsp;
-
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/> &nbsp;
 
