@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently worked as a **Data Analyst** at **Xylem Learning** (Jul 2024 – Aug 2025).  
+- 🔭 worked as a **Data Analyst** at **Xylem Learning** (Jul 2024 – Aug 2025).  
 - 👯 Open to collaborating on **Data Analytics, ML, and BI** projects.  
 - 🌱 Core skills: **Python, SQL (MySQL), Power BI, Pandas, NumPy, Scikit-learn, Streamlit**.  
 - 💬 Ask me about **EDA, predictive modeling, dashboard design, and production ML pipelines**.  
@@ -23,10 +23,10 @@
 
 ### Data Analytics & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="python" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=powerbi" alt="powerbi" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" alt="excel" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=tableau" alt="tableau" />
+ <img src="https://skillicons.dev/icons?i=python" alt="python" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="45" height="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="excel" width="45" height="45"/> &nbsp;
+
 </p>
 
 ### Machine Learning & Data Science
