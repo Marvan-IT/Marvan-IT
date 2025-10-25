@@ -78,14 +78,6 @@
 - Built predictive models on **10K+ property listings**, achieving **~89% accuracy**.  
 - Reduced missing data by **95%** with Pandas preprocessing; tuned Random Forest & Linear Regression models via hyperparameter optimization.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvan-IT&show_icons=true&theme=radical" alt="github stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvan-IT&layout=compact&theme=radical" alt="top languages" height="150"/>
-</p>
 
 ---
 
