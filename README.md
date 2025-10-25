@@ -89,4 +89,3 @@
   <a href="mailto:manujaleel007@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
 </p>
 
----
