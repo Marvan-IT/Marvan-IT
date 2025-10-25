@@ -29,11 +29,6 @@
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/> &nbsp;
 
-  <!-- Power BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45"/> &nbsp;
-
-  <!-- Tableau -->
-  <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" width="45" height="45"/>
 </p>
 
 ### Machine Learning & Data Science
