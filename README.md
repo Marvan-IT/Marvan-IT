@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/> &nbsp;
 
 </p>
-### Machine Learning & Data Science
+**### Machine Learning & Data Science**
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=pandas" alt="pandas" /> &nbsp;
