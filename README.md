@@ -23,12 +23,16 @@
 
 ### Data Analytics & Visualization
 <p>
- <img src="https://skillicons.dev/icons?i=python" alt="python" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="45" height="45"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="excel" width="45" height="45"/> &nbsp;
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/> &nbsp;
+
+  <!-- Power BI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45"/> &nbsp;
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/> &nbsp;
 
 </p>
-
 ### Machine Learning & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /> &nbsp;
