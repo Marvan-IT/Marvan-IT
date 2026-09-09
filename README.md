@@ -1,15 +1,20 @@
 # Muhammed Marvan
 
-Full-stack developer at Hightekers, based in Dubai. I build web applications end to end —
-React and TypeScript front ends, Python and Node back ends, PostgreSQL — and the data
-pipelines and dashboards that sit behind them.
+Full-stack developer at Hightekers, based in Dubai. I build AI-powered web applications
+end to end — document retrieval over PostgreSQL and pgvector, FastAPI back ends, React
+front ends — and the data pipelines that feed them.
 
 ## Now
 
-- Full-stack developer at Hightekers.
-- In private repositories: a market-data ingestion platform (Python, Polars, DuckDB,
-  immutable Parquet lake) and an adaptive learning platform that turns textbooks into a
-  concept graph and adaptive lesson cards (FastAPI, PostgreSQL + pgvector, React, 13 locales).
+Two systems in private repositories:
+
+- **An adaptive learning platform.** Textbooks are parsed, embedded into pgvector and
+  linked into a concept graph, then served as adaptive lesson cards. FastAPI with async
+  SQLAlchemy, PostgreSQL, React, 13 locales, JWT auth and rate limiting, deployed with
+  Docker behind nginx on AWS.
+- **A market-data platform.** Vendor feeds are validated and written to an immutable
+  Parquet lake queried through DuckDB, with a Typer CLI and a governed backtesting
+  workflow. Python, Polars, DuckDB, PyArrow.
 
 ## Selected work
 
@@ -30,8 +35,9 @@ pipelines and dashboards that sit behind them.
 
 ## Stack
 
-TypeScript, React, Vite, Next.js, Node · Python, FastAPI · PostgreSQL, pgvector, Prisma ·
-Docker · Pandas, Polars, DuckDB, scikit-learn, XGBoost · Power BI, SQL
+Python, FastAPI, async SQLAlchemy · PostgreSQL, pgvector · React, TypeScript, Vite,
+Next.js, Node · Docker, nginx, AWS · Polars, DuckDB, PyArrow, Pandas · scikit-learn,
+XGBoost, LightGBM · SQL, Power BI
 
 ## Contact
 
